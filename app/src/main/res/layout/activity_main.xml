@@ -10,6 +10,7 @@
         android:id="@+id/title_text_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
         android:text="@string/intro_text" />
     <ScrollView
         android:layout_width="fill_parent"

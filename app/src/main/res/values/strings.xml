@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">BreathWellBeing</string>
-    <string name="intro_text">Behold, a data dump from the Fitness API! Check the menu for more actions!</string>
+    <string name="intro_text">Data from the Fitness API! </string>
     <string name="action_update_session">Update step count data</string>
     <string name="action_delete_session">Delete step count data</string>
     <string name="action_signout">Sign out</string>
